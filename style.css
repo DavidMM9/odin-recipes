@@ -1,0 +1,38 @@
+* {
+    background-color: #a2b9bc;
+    font-size: 20px;
+}
+
+.tit {
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.parent {
+    text-align: center;
+}
+
+#ll {
+    font-size: 24px;
+    display: inline-block;
+    text-align: left;
+    list-style-type: none;
+}
+
+#ll li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.icurry,
+.ilas,
+.imac {
+    display: grid;
+    place-items: center;
+}
+
+.subtit {
+    font-size: 36px;
+    font-weight: bold;
+}
