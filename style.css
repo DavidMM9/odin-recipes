@@ -20,7 +20,7 @@
     list-style-type: none;
 }
 
-#ll li {
+li {
     margin-top: 20px;
     margin-bottom: 20px;
 }
